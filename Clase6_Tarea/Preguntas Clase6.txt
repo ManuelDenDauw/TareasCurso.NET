@@ -1,0 +1,11 @@
+1) Puedo declarar multiples variables en una sola línea utilizando 'var'
+V/F
+
+Resp : F
+
+2)En qué parte del código debo declarar e inicializar una variable para poder leer su valor?
+a - Al principio del programa sí o só
+b - Debe declararse siempre antes de ser utilizada 
+c - Puedo declararla en cualquier parte del código
+
+Resp: b 
